@@ -122,7 +122,7 @@ I did some works on Image Denoising and Point Set Registration.
 
 ## Teaching
 <div style="display:flex; justify-content:space-between;">
-  <p>CV803: Advanced Techniques in Visual Object Recognition and Detection (Teaching Assistant)</p>
+  <p>CV803: Advanced Techniques in Visual Object Recognition and Detection, MBZUAI (Teaching Assistant)</p>
   <p style="text-align:right;">2024</p>
 </div>
 
