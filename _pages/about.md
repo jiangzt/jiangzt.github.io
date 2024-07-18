@@ -132,6 +132,7 @@ I did some works on Image Denoising and Point Set Registration.
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>(TCSVT)</li>
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Cybernetics</strong> (TCYB)</li>
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Systems, Man, and Cybernetics</strong></li>
+    <li style="margin-bottom: 10px;"><strong>ACM Transactions on Multimedia Computing, Communications, and Applications</strong></li>
     <li style="margin-bottom: 10px;"><strong>Neural Networks</strong> </li>
     <li style="margin-bottom: 10px;"><strong>Knowledge-Based Systems</strong> (KBS)</li>
   </ul>
