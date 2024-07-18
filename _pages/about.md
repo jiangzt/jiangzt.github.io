@@ -11,7 +11,8 @@ redirect_from:
 I am a postdoctoral researcher at <a href="https://mbzuai.ac.ae/">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>, working with <a href="https://lemondan.github.io/">Prof. Xiaodan Liang</a>. Before that, I received my PhD at Xi’an Jiaotong University in March 2023, advised by  <a href="https://gr.xjtu.edu.cn/en/web/zhujh">Prof. Jihua Zhu</a>. I was a Visiting Scholar at Monash University, from 2019 to 2021, working with <a href="https://www.xiaojun.ai/">Prof. Xiaojun Chang</a>.
 
 
-My current research interests are 2D/3D Generation and Multimodal Large Language Model. I did some works on Image Denoising and Point Set Registration.
+My current research interests are 2D/3D Generation and Multimodal Large Language Model. 
+I did some works on Image Denoising and Point Set Registration.
 
 ## News
 - **[07/2024]:** One paper, is accepted to ECCV 2024.
@@ -30,6 +31,9 @@ My current research interests are 2D/3D Generation and Multimodal Large Language
 <dt>Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs</dt>
 <dd>Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, <strong>Zutao Jiang</strong>, Mingkai Deng, Jinhong Wang, Tianhua Tao, Junbo Li, Haonan Li, Preslav Nakov, Timothy Baldwin, Zhengzhong Liu, Eric P. Xing, Xiaodan Liang, Zhiqiang Shen</dd>
 <dd>Arxiv, 2024 <a href="https://github.com/MBZUAI-LLM/web2code">[Code]</a></dd>
+<br>
+<br>
+<br>
 </dl>
 
 <dl>
