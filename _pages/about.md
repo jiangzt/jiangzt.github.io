@@ -103,7 +103,7 @@ I did some works on Image Denoising and Point Set Registration.
 <div style="display:flex; align-items:center;">
   <img src="../images/pengcheng.png" alt="Image" style="width:100px; margin-right:20px;">
   <div>
-    <p>Peng Cheng Laboratory</p>
+    <p>Research Intern, Peng Cheng Laboratory</p>
     <p>Oct. 2021 - Mar. 2023</p>
   </div>
 </div>
