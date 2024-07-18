@@ -29,7 +29,7 @@ My current research interests are 2D/3D Generation and Multimodal Large Language
 <dt><img src="../images/pix2code.png" alt="Web2Code" align="left" style="width:210px; margin-right:10px;"></dt>
 <dt>Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs</dt>
 <dd>Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, <strong>Zutao Jiang</strong>, Mingkai Deng, Jinhong Wang, Tianhua Tao, Junbo Li, Haonan Li, Preslav Nakov, Timothy Baldwin, Zhengzhong Liu, Eric P. Xing, Xiaodan Liang, Zhiqiang Shen</dd>
-<dd>Arxiv, 2024 <a href="https://github.com/MBZUAI-LLM/web2code">[Code]</a></a></dd>
+<dd>Arxiv, 2024 <a href="https://github.com/MBZUAI-LLM/web2code">[Code]</a></dd>
 <br>
 <br>
 <br>
@@ -72,7 +72,7 @@ My current research interests are 2D/3D Generation and Multimodal Large Language
 <dt><img src="../images/Dynamic.png" alt="Dynamic" align="left" style="width:210px; margin-right:10px;"></dt>
 <dt>Dynamic Slimmable Denoising Network</dt>
 <dd><strong>Zutao Jiang</strong>, Changlin Li, Xiaojun Chang, Ling Chen, Jihua Zhu, Yi Yang</dd>
-<dd>TIP, 2023</a></dd>
+<dd>TIP, 2023</dd>
 <br>
 </dl>
 
