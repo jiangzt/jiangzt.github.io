@@ -83,6 +83,9 @@ I did some works on Image Denoising and Point Set Registration.
 <dd><strong>Zutao Jiang</strong>, Jihua Zhu, Zhiyang Lin, Zhongyu Li, Guo Rui</dd>
 <dd>Neurocomputing, 2020.</dd>
 <br>
+<br>
+<br>
+<br>
 <dt><img src="../images/K-means.png" alt="K-means" align="left" style="width:220px; margin-right:10px;"></dt>
 <dt>Efficient registration of multi-view point sets by K-means clustering</dt>
 <dd>Jihua Zhu, <strong>Zutao Jiang</strong>, Georgios D Evangelidis, Changqing Zhang, Shanmin Pang, Zhongyu Li</dd>
