@@ -30,21 +30,16 @@ My current research interests are 2D/3D Generation and Multimodal Large Language
 <dt>Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs</dt>
 <dd>Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, <strong>Zutao Jiang</strong>, Mingkai Deng, Jinhong Wang, Tianhua Tao, Junbo Li, Haonan Li, Preslav Nakov, Timothy Baldwin, Zhengzhong Liu, Eric P. Xing, Xiaodan Liang, Zhiqiang Shen</dd>
 <dd>Arxiv, 2024 <a href="https://github.com/MBZUAI-LLM/web2code">[Code]</a></dd>
-<br>
-<br>
-<br>
-<br>
-<br>
 </dl>
 
 <dl>
 <dt><strong>2D Generation </strong><br></dt>
-<dt><img src="../images/RealignDiff.png" alt="RealignDiff" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/RealignDiff.png" alt="RealignDiff" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>RealignDiff: Boosting Text-to-Image Diffusion Model with Coarse-to-fine Semantic Re-alignment</dt>
 <dd><strong>Zutao Jiang</strong>, Guian Fang, Jianhua Han, Guansong Lu, Hang Xu, Shengcai Liao, Xiaojun Chang, Xiaodan Liang</dd>
-<dd>Arxiv, 2024 </a></dd>
+<dd>Arxiv, 2024 </dd>
 <br>
-<dt><img src="../images/HumanRefiner.png" alt="HumanRefiner" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/HumanRefiner.png" alt="HumanRefiner" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance</dt>
 <dd>Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, <strong>Zutao Jiang</strong>, Hang Xu, Shengcai Liao, Xiaodan Liang</dd>
 <dd>ECCV, 2024 <a href="https://github.com/Enderfga/HumanRefiner">[Code]</a></dd>
@@ -52,56 +47,42 @@ My current research interests are 2D/3D Generation and Multimodal Large Language
 
 <dl>
 <dt><strong>3D Generation </strong><br></dt>
-<dt><img src="../images/PTUS.png" alt="PTUS" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/PTUS.png" alt="PTUS" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>PTUS: Photo-Realistic Talking Upper-Body Synthesis via 3D-Aware Motion Decomposition Warping</dt>
 <dd>Luoyang Lin, <strong>Zutao Jiang</strong>, Xiaodan Liang, Liqian Ma, Michael C. Kampffmeyer, Xiaochun Cao</dd>
 <dd>AAAI, 2024</dd>
 <br>
-<br>
-<br>
-<dt><img src="../images/3D-TOGO.png" alt="3D-TOGO" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/3D-TOGO.png" alt="3D-TOGO" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>3D-TOGO: Towards Text-Guided Cross-Category 3D Object Generation</dt>
 <dd><strong>Zutao Jiang</strong>, Guansong Lu, Xiaodan Liang, Jihua Zhu, Wei Zhang, Xiaojun Chang, Hang Xu</dd>
 <dd>AAAI, 2023</dd>
-<br>
 </dl>
 
 
 <dl>
 <dt><strong>Image Denoising </strong><br></dt>
-<dt><img src="../images/Dynamic.png" alt="Dynamic" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/Dynamic.png" alt="Dynamic" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>Dynamic Slimmable Denoising Network</dt>
 <dd><strong>Zutao Jiang</strong>, Changlin Li, Xiaojun Chang, Ling Chen, Jihua Zhu, Yi Yang</dd>
 <dd>TIP, 2023</dd>
-<br>
 </dl>
 
 <dl>
 <dt><strong>Point Set Registration </strong><br></dt>
-<dt><img src="../images/diff_grid_map.png" alt="diff_grid_map" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/diff_grid_map.png" alt="diff_grid_map" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>Merging grid maps in Diverse Resolutions by the Context-based Descriptor</dt>
 <dd>Zhiyang Lin, Jihua Zhu, <strong>Zutao Jiang</strong>, Yujie Li, Yaochen Li, Zhongyu Li</dd>
 <dd>ACM Transactions on Internet Technology, 2021.</dd>
 <br>
-<br>
-<br>
-<dt><img src="../images/3D_Mapping.png" alt="3D_Mapping" align="left" style="width:210px; margin-right:10px;"></dt>
+<dt><img src="../images/3D_Mapping.png" alt="3D_Mapping" align="left" style="width:200px; margin-right:10px;"></dt>
 <dt>3D mapping of outdoor environments by scan matching and motion averaging</dt>
 <dd><strong>Zutao Jiang</strong>, Jihua Zhu, Zhiyang Lin, Zhongyu Li, Guo Rui</dd>
 <dd>Neurocomputing, 2020.</dd>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <dt><img src="../images/K-means.png" alt="K-means" align="left" style="width:210px; margin-right:10px;"></dt>
 <dt>Efficient registration of multi-view point sets by K-means clustering</dt>
 <dd>Jihua Zhu, <strong>Zutao Jiang</strong>, Georgios D Evangelidis, Changqing Zhang, Shanmin Pang, Zhongyu Li</dd>
 <dd>Information Sciences, 2019  <a href="https://github.com/robotzjh/KmeanReg">[Code]</a></dd>
-<br>
 </dl>
 
 
