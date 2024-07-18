@@ -69,6 +69,8 @@ I did some works on Image Denoising and Point Set Registration.
 <dt>Dynamic Slimmable Denoising Network</dt>
 <dd><strong>Zutao Jiang</strong>, Changlin Li, Xiaojun Chang, Ling Chen, Jihua Zhu, Yi Yang</dd>
 <dd>TIP, 2023</dd>
+<br>
+<br>
 </dl>
 
 <dl>
