@@ -47,6 +47,8 @@ I did some works on Image Denoising and Point Set Registration.
 <dt>HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance</dt>
 <dd>Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, <strong>Zutao Jiang</strong>, Hang Xu, Shengcai Liao, Xiaodan Liang</dd>
 <dd>ECCV, 2024 <a href="https://github.com/Enderfga/HumanRefiner">[Code]</a></dd>
+<br>
+<br>
 </dl>
 
 <dl>
