@@ -15,8 +15,8 @@ My current research interests are 2D/3D Generation and Multimodal Large Language
 I did some works on Image Denoising and Point Set Registration.
 
 ## News
-- **[07/2024]:** One paper, is accepted to ECCV 2024.
-- **[12/2023]:** One paper, is accepted to AAAI 2024.
+- **[07/2024]:** One paper is accepted to ECCV 2024.
+- **[12/2023]:** One paper is accepted to AAAI 2024.
 - **[03/2023]:** I started my postdoc journey at MBZUAI.
 - **[11/2022]:** One paper is accepted to AAAI2023.
 - **[10/2022]:** One paper is accepted to TIP.
