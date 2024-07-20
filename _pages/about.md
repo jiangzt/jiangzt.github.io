@@ -38,11 +38,13 @@ I did some works on Image Denoising and Point Set Registration.
 
 <dl>
 <dt><strong>2D Generation </strong><br></dt>
+<!--
 <dt><img src="../images/RealignDiff.png" alt="RealignDiff" align="left" style="width:220px; margin-right:10px;"></dt>
 <dt>RealignDiff: Boosting Text-to-Image Diffusion Model with Coarse-to-fine Semantic Re-alignment</dt>
 <dd><strong>Zutao Jiang</strong>, Guian Fang, Jianhua Han, Guansong Lu, Hang Xu, Shengcai Liao, Xiaojun Chang, Xiaodan Liang</dd>
 <dd>Arxiv, 2024 </dd>
 <br>
+-->
 <dt><img src="../images/HumanRefiner.png" alt="HumanRefiner" align="left" style="width:220px; margin-right:10px;"></dt>
 <dt>HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance</dt>
 <dd>Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, <strong>Zutao Jiang</strong>, Hang Xu, Shengcai Liao, Xiaodan Liang</dd>
