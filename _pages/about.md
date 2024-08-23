@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher at <a href="https://mbzuai.ac.ae/">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>. Before that, I received my PhD at Xi’an Jiaotong University in March 2023, advised by  <a href="https://gr.xjtu.edu.cn/en/web/zhujh">Prof. Jihua Zhu</a>. I was a Visiting Scholar at Monash University, from 2019 to 2021, working with <a href="https://www.xiaojun.ai/">Prof. Xiaojun Chang</a>.
+I am a postdoctoral researcher at <a href="https://mbzuai.ac.ae/">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>, working with <a href="https://lemondan.github.io/">Prof. Xiaodan Liang</a>. Before that, I received my PhD at Xi’an Jiaotong University in March 2023, advised by  <a href="https://gr.xjtu.edu.cn/en/web/zhujh">Prof. Jihua Zhu</a>. I was a Visiting Scholar at Monash University, from 2019 to 2021, working with <a href="https://www.xiaojun.ai/">Prof. Xiaojun Chang</a>.
 
 
 My current research interests are 2D/3D Generation and Multimodal Large Language Model. 
