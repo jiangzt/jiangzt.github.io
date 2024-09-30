@@ -32,7 +32,7 @@ I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Den
 <dt><img src="../images/pix2code.png" alt="Web2Code" align="left" style="width:220px; margin-right:10px;"></dt>
 <dt>Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs</dt>
 <dd>Sukmin Yun, Haokun Lin, Rusiru Thushara, Mohammad Qazim Bhat, Yongxin Wang, <strong>Zutao Jiang</strong>, Mingkai Deng, Jinhong Wang, Tianhua Tao, Junbo Li, Haonan Li, Preslav Nakov, Timothy Baldwin, Zhengzhong Liu, Eric P. Xing, Xiaodan Liang, Zhiqiang Shen</dd>
-<dd>Arxiv, 2024 <a href="https://github.com/MBZUAI-LLM/web2code">[Code]</a></dd>
+<dd>NeurIPS, 2024 <a href="https://github.com/MBZUAI-LLM/web2code">[Code]</a></dd>
 <br>
 <br>
 <br>
