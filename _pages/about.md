@@ -135,12 +135,12 @@ I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Den
 
 <div style="display:flex; justify-content:space-between;">
   <ul style="list-style-type: none; padding-left: 0;">
-    <li style="margin-bottom: 10px;"><strong>CVPR 2023, 2024</strong></li>
-    <li style="margin-bottom: 10px;"><strong>NeurIPS 2023, 2024</strong></li>
-    <li style="margin-bottom: 10px;"><strong>ECCV 2024</strong></li>
-    <li style="margin-bottom: 10px;"><strong>ICLR 2023-2024</strong></li>
-    <li style="margin-bottom: 10px;"><strong>ICML 2023</strong></li>
-    <li style="margin-bottom: 10px;"><strong>ACM MM 2024</strong></li>
+    <li style="margin-bottom: 10px;"><strong>CVPR 2023-2025</strong></li>
+    <li style="margin-bottom: 10px;"><strong>NeurIPS 2023-2025</strong></li>
+    <li style="margin-bottom: 10px;"><strong>ECCV 2024-2025</strong></li>
+    <li style="margin-bottom: 10px;"><strong>ICLR 2023-2025</strong></li>
+    <li style="margin-bottom: 10px;"><strong>ICML 2023-2025</strong></li>
+    <li style="margin-bottom: 10px;"><strong>ACM MM 2024-2025</strong></li>
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Neural Networks and Learning Systems</strong> (TNNLS)</li>
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Circuits and Systems for Video Technology</strong>(TCSVT)</li>
     <li style="margin-bottom: 10px;"><strong>IEEE Transactions on Cybernetics</strong> (TCYB)</li>
