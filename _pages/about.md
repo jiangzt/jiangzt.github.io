@@ -15,6 +15,7 @@ My current research interests is Embodied AI.
 I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Denoising and Point Set Registration.
 
 ## News
+- **[07/2025]:** One paper is accepted to TNNLS 2025.
 - **[09/2024]:** I have been appointed as an Assistant Professor at Pengcheng Laboratory.
 - **[09/2024]:** One paper is accepted to NeurIPS 2024.
 - **[07/2024]:** One paper is accepted to ECCV 2024.
@@ -40,13 +41,13 @@ I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Den
 
 <dl>
 <dt><strong>2D Generation </strong><br></dt>
-<!--
+
 <dt><img src="../images/RealignDiff.png" alt="RealignDiff" align="left" style="width:220px; margin-right:10px;"></dt>
 <dt>RealignDiff: Boosting Text-to-Image Diffusion Model with Coarse-to-fine Semantic Re-alignment</dt>
 <dd><strong>Zutao Jiang</strong>, Guian Fang, Jianhua Han, Guansong Lu, Hang Xu, Shengcai Liao, Xiaojun Chang, Xiaodan Liang</dd>
-<dd>Arxiv, 2024 </dd>
+<dd>TNNLS, 2025 </dd>
 <br>
--->
+
 <dt><img src="../images/HumanRefiner.png" alt="HumanRefiner" align="left" style="width:220px; margin-right:10px;"></dt>
 <dt>HumanRefiner: Benchmarking Abnormal Human Generation and Refining with Coarse-to-fine Pose-Reversible Guidance</dt>
 <dd>Guian Fang, Wenbiao Yan, Yuanfan Guo, Jianhua Han, <strong>Zutao Jiang</strong>, Hang Xu, Shengcai Liao, Xiaodan Liang</dd>
