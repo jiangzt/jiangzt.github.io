@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an assistant professor at the Research Institute of Multiple Agents and Embodied Intelligence, Pengcheng Laboratory. Before that, I received my PhD at Xi’an Jiaotong University in March 2023, advised by  <a href="https://gr.xjtu.edu.cn/en/web/zhujh">Prof. Jihua Zhu</a>. I was a postdoctoral researcher at <a href="https://mbzuai.ac.ae/">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>, from 2023 to 2024, working with <a href="https://lemondan.github.io/">Prof. Xiaodan Liang</a>.  I was a Visiting Scholar at Monash University, from 2019 to 2021, working with <a href="https://www.xiaojun.ai/">Prof. Xiaojun Chang</a>.
+I am currently an assistant professor at the Research Institute of Multiple Agents and Embodied Intelligence, Peng Cheng Laboratory. Before that, I received my PhD at Xi’an Jiaotong University in March 2023, advised by  <a href="https://gr.xjtu.edu.cn/en/web/zhujh">Prof. Jihua Zhu</a>. I was a postdoctoral researcher at <a href="https://mbzuai.ac.ae/">Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)</a>, from 2023 to 2024, working with <a href="https://lemondan.github.io/">Prof. Xiaodan Liang</a>.  I was a Visiting Scholar at Monash University, from 2019 to 2021, working with <a href="https://www.xiaojun.ai/">Prof. Xiaojun Chang</a>.
 
 
 My current research interests is Embodied AI. 
@@ -16,7 +16,7 @@ I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Den
 
 ## News
 - **[07/2025]:** One paper is accepted to TNNLS 2025.
-- **[09/2024]:** I have been appointed as an Assistant Professor at Pengcheng Laboratory.
+- **[09/2024]:** I have been appointed as an Assistant Professor at Peng Cheng Laboratory.
 - **[09/2024]:** One paper is accepted to NeurIPS 2024.
 - **[07/2024]:** One paper is accepted to ECCV 2024.
 - **[12/2023]:** One paper is accepted to AAAI 2024.
