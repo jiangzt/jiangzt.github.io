@@ -15,6 +15,7 @@ My current research interests is Embodied AI.
 I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Denoising and Point Set Registration.
 
 ## News
+- **[02/2026]:** One paper is accepted to CVPR 2026.
 - **[07/2025]:** One paper is accepted to TNNLS 2025.
 - **[09/2024]:** I have been appointed as an Assistant Professor at Peng Cheng Laboratory.
 - **[09/2024]:** One paper is accepted to NeurIPS 2024.
