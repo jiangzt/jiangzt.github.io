@@ -29,6 +29,14 @@ I did some works on 2D/3D Generation, Multimodal Large Language Model, Image Den
 
 ## Selected Publications
 
+<dl style="display: flow-root;">
+<dt><strong>World Models</strong><br></dt>
+<dt><a href="https://zijunwa.github.io/prophy/"><img src="https://zijunwa.github.io/prophy/assets/images/framework.png" alt="ProPhy framework" loading="lazy" align="left" style="width:220px; max-width:100%; margin-right:10px;"></a></dt>
+<dt>ProPhy: Progressive Physical Alignment for Dynamic World Simulation</dt>
+<dd>Zijun Wang, Panwen Hu, Jing Wang, Terry Jingchen Zhang, Yuhao Cheng, Long Chen, Yiqiang Yan, <strong>Zutao Jiang</strong>, Hanhui Li, Xiaodan Liang</dd>
+<dd>CVPR, 2026 (Oral) <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_ProPhy_Progressive_Physical_Alignment_for_Dynamic_World_Simulation_CVPR_2026_paper.pdf">[Paper]</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=zh-CN&amp;user=BCR0RI4AAAAJ&amp;sortby=pubdate&amp;citation_for_view=BCR0RI4AAAAJ:YOwf2qJgpHMC">[Google Scholar]</a> <a href="https://github.com/zijunwa/ProPhy">[Code]</a></dd>
+</dl>
+
 <dl>
 <dt><strong>Multimodal Large Language Model </strong><br></dt>
 <dt><img src="../images/pix2code.png" alt="Web2Code" align="left" style="width:220px; margin-right:10px;"></dt>
